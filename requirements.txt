@@ -1,0 +1,8 @@
+streamlit
+neo4j
+langchain
+langchain_community
+langchain_google_genai
+requests
+python-dotenv
+os
