@@ -14,7 +14,7 @@ load_dotenv()
 # Neo4j credentials
 url = "neo4j+s://c786584f.databases.neo4j.io"
 username = "neo4j"
-password = "n5gOZVFrxpXeuTo4Vs0pqSbND9Mf2NLV05WAOb5F8Zw"
+password = "your neo4j pswd here"
 api_key = os.getenv('GEMINI_API_KEY')
 vector_store_file = "vector_store.json"  # File to store vector store parameters
 
